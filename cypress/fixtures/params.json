@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "position": "QA",
+            "company": "legionqa_kate999",
+            "location": "Toronto",
+            "seniority": "junior",
+            "link": "www.linkedin.com",
+            "description": "some text",
+            "time": "two hours ago",
+            "salary": "100k",
+            "date": "2020-05-05T12:00:00"
+        },
+        {
+            "position": "Developer",
+            "company": "legionqa_kate955",
+            "location": "New York",
+            "seniority": "senior",
+            "link": "www.linkedin.com",
+            "description": "some text",
+            "time": "two hours ago",
+            "salary": "150k",
+            "date": "2020-05-09T12:00:00"
+        }
+    ]
+}

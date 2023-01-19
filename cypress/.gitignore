@@ -1,0 +1,8 @@
+node_modules
+logs
+*.logs
+*.xml
+*.zip
+cypress/screenshots
+cypress/videos
+cypress/logs
